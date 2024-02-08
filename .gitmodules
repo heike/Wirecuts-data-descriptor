@@ -1,0 +1,3 @@
+[submodule "analysis-manual"]
+	path = analysis-manual
+	url = git@github.com:heike/Wirecuts-analysis-manual.git
